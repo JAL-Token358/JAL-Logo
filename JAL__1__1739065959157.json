@@ -1,0 +1,159 @@
+[
+    {
+        "version": "1.0",
+        "image": {
+            "name": "JAL__1__1739065959157.png",
+            "baseName": "JAL__1__1739065959157.png",
+            "format": "PNG",
+            "formatDescription": "PNG",
+            "mimeType": "image\/png",
+            "class": "DirectClass",
+            "geometry": {
+                "width": 500,
+                "height": 500,
+                "x": 0,
+                "y": 0
+            },
+            "resolution": {
+                "x": 37.8,
+                "y": 37.8
+            },
+            "printSize": {
+                "x": 13.2275,
+                "y": 13.2275
+            },
+            "units": "PixelsPerCentimeter",
+            "type": "GrayscaleAlpha",
+            "baseType": "Undefined",
+            "endianness": "Undefined",
+            "colorspace": "sRGB",
+            "depth": 8,
+            "baseDepth": 8,
+            "channelDepth": {
+                "alpha": 1,
+                "red": 8,
+                "green": 8,
+                "blue": 1
+            },
+            "pixels": 1000000,
+            "imageStatistics": {
+                "Overall": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 245.185,
+                    "median": 255,
+                    "standardDeviation": 40.5584,
+                    "kurtosis": 21.2961,
+                    "skewness": -4.78222,
+                    "entropy": 0.0505657
+                }
+            },
+            "channelStatistics": {
+                "alpha": {
+                    "min": 255,
+                    "max": 255,
+                    "mean": 255,
+                    "median": 255,
+                    "standardDeviation": 0,
+                    "kurtosis": 8.189e+51,
+                    "skewness": 1.0e+36,
+                    "entropy": 0
+                },
+                "red": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 241.914,
+                    "median": 255,
+                    "standardDeviation": 54.0778,
+                    "kurtosis": 14.7563,
+                    "skewness": -4.05306,
+                    "entropy": 0.0674209
+                },
+                "green": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 241.914,
+                    "median": 255,
+                    "standardDeviation": 54.0778,
+                    "kurtosis": 14.7563,
+                    "skewness": -4.05306,
+                    "entropy": 0.0674209
+                },
+                "blue": {
+                    "min": 0,
+                    "max": 255,
+                    "mean": 241.914,
+                    "median": 255,
+                    "standardDeviation": 54.0778,
+                    "kurtosis": 14.7563,
+                    "skewness": -4.05306,
+                    "entropy": 0.0674209
+                }
+            },
+            "renderingIntent": "Perceptual",
+            "gamma": 0.454545,
+            "chromaticity": {
+                "redPrimary": {
+                    "x": 0.64,
+                    "y": 0.33
+                },
+                "greenPrimary": {
+                    "x": 0.3,
+                    "y": 0.6
+                },
+                "bluePrimary": {
+                    "x": 0.15,
+                    "y": 0.06
+                },
+                "whitePrimary": {
+                    "x": 0.3127,
+                    "y": 0.329
+                }
+            },
+            "matteColor": "#BDBDBD",
+            "backgroundColor": "#FFFFFF",
+            "borderColor": "#DFDFDF",
+            "transparentColor": "#00000000",
+            "interlace": "None",
+            "intensity": "Undefined",
+            "compose": "Over",
+            "pageGeometry": {
+                "width": 500,
+                "height": 500,
+                "x": 0,
+                "y": 0
+            },
+            "dispose": "Undefined",
+            "iterations": 0,
+            "compression": "Zip",
+            "orientation": "Undefined",
+            "properties": {
+                "date:create": "2025-02-09T01:52:42+00:00",
+                "date:modify": "2025-02-09T01:52:42+00:00",
+                "date:timestamp": "2025-02-09T01:52:57+00:00",
+                "pdf:Author": "Jeremy .A L",
+                "png:IHDR.bit-depth-orig": "8",
+                "png:IHDR.bit_depth": "8",
+                "png:IHDR.color-type-orig": "6",
+                "png:IHDR.color_type": "6 (RGBA)",
+                "png:IHDR.interlace_method": "0 (Not interlaced)",
+                "png:IHDR.width,height": "500, 500",
+                "png:pHYs": "x_res=3780, y_res=3780, units=1",
+                "png:sRGB": "intent=0 (Perceptual Intent)",
+                "signature": "ff712794f4e593dd3437fdc068964d8ab5dd5fddc7426d9cabc3069e1a3f8ec1",
+                "xmp:CreatorTool": "Canva (Renderer)"
+            },
+            "profiles": {
+                "xmp": {
+                    "length": 1234
+                }
+            },
+            "tainted": false,
+            "filesize": "22953B",
+            "numberPixels": "250000",
+            "pixelsPerSecond": "139.546MB",
+            "userTime": "0.000u",
+            "elapsedTime": "0:01.001"
+        }
+    }
+]
